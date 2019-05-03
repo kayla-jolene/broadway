@@ -1,3 +1,44 @@
 html {
   text-align: center;
+  font-family: Helvetica;
+}
+
+.Home, .background-two {
+  background-image: url('/Users/Kayla/Documents/GitHub/broadway/resources/images/the-flatiron-building.png')
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.Nav-Links {
+  color: white;
+  font-size: 18px;
+}
+
+.ProcessHeading {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.background-two {
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+footer {
+  font-size: 11px;
+  color: white;
+  background-color:dimgray;
+  text-align: left;
 }
