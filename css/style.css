@@ -16,6 +16,7 @@ h1 {
 .Nav-Links {
   color: white;
   font-size: 18px;
+  font-family: Helvetica;
 }
 
 .ProcessHeading {
@@ -41,4 +42,8 @@ footer {
   color: white;
   background-color:dimgray;
   text-align: left;
+}
+
+.footer p {
+  font-size: 11px;
 }
